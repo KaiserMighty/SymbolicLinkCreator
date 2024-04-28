@@ -6,4 +6,5 @@ If you're anything like me, you don't have that much room in your C drive.
 Simply run the executable with admin privileges, select the folder you wish to move as the "origin folder", select the destination where you want to place the folder as the "target folder".  
 The tool will move your folder to the target folder, and then create a symbolic link where the origin folder was.  
   
-For example, I used this to move my minecraft installation by selection the `.minecraft` folder from `%appdata%` as the origin, and selected my D drive as the target.
+For example, I used this to move my minecraft installation by selection the `.minecraft` folder from `%appdata%` as the origin, and selected my D drive as the target.  
+## Download an executable file from the releases tab
