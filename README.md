@@ -8,3 +8,5 @@ The tool will move your folder to the target folder, and then create a symbolic 
   
 For example, I used this to move my minecraft installation by selection the `.minecraft` folder from `%appdata%` as the origin, and selected my D drive as the target.  
 ## Download an executable file from the releases tab
+
+![Preview](preview.png)
